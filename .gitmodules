@@ -1,0 +1,4 @@
+[submodule "devblog/public"]
+	path = devblog/public
+	url = https://github.com/CovertGravy/covertdevblog.github.io.git
+	branch = main

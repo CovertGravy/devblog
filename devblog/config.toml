@@ -1,0 +1,4 @@
+baseURL = "https://covertgravy.github.io/blog"
+languageCode = "en-us"
+title = "Ashish Shaji's DevBlog"
+theme = "PaperMod"
