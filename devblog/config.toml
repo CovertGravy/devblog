@@ -2,3 +2,17 @@ baseURL = "https://covertgravy.github.io/blog"
 languageCode = "en-us"
 title = "Ashish Shaji's DevBlog"
 theme = "PaperMod"
+[params.homeInfoParams]
+Title = "Hi, I am Ashish"
+Content = "Welcome to my dev blog"
+
+[params]
+ShowCodeCopyButtons = true
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.ashishshaji.me"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.ashishshaji.me"
