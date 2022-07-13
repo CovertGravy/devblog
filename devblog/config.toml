@@ -11,8 +11,8 @@ ShowCodeCopyButtons = true
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.ashishshaji.me"
+url = "http://github.ashishshaji.me"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://linkedin.ashishshaji.me"
+url = "http://linkedin.ashishshaji.me"
