@@ -3,6 +3,7 @@ title: "Git Squash"
 date: 2022-08-01T20:47:23+05:30
 draft: false
 author: "Ashish Shaji"
+tags: ["git"]
 ---
 ## Git squash
 ---
